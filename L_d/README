@@ -1,0 +1,10 @@
+To run this example, the power system software PST needs to be installed on the computer and access to the PST folder given to matlab.
+
+From this folder run the command 
+$ s_simu
+
+Then choose dmafan3area.m file from the menu window that appears.
+
+Click Ok for all the following boxes (does not need to be changed from 100MWA and 60 Hz), leave calculate load flow blank.
+
+To adjust the simulation time, edit the dmafan3area.m file; you can read the PST manual to understand the instructions written for this. 
